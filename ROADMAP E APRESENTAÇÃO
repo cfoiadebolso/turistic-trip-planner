@@ -1,0 +1,100 @@
+Roadmap do Marketplace de Excursões Locais
+Fase 0 – MVP Local
+
+Objetivo: validar demanda e engajamento intenso.
+
+Fluxo:
+
+Organizador local cadastra excursão.
+
+Usuário do bairro visualiza e reserva a excursão.
+
+Pagamento direto pelo app.
+
+Usuário avalia a experiência.
+
+Barreira de entrada / Monopólio:
+
+Primeiros organizadores locais ficam fidelizados.
+
+Usuários do bairro começam a depender do app para descobrir excursões locais.
+
+Dados iniciais sobre preferências e padrões de reserva criam vantagem competitiva.
+
+Fase 1 – Parcerias com pontos turísticos
+
+Objetivo: aumentar valor para organizadores e usuários, sem expandir geograficamente.
+
+Fluxo:
+
+Sistema estabelece parcerias com pontos turísticos próximos.
+
+Organizador vê ofertas específicas no app e adere.
+
+Excursão é criada com preço e benefícios especiais.
+
+Usuário reserva excursão com informações claras sobre pacote/benefício.
+
+Barreira de entrada / Monopólio:
+
+Sistema controla acesso às melhores ofertas locais.
+
+Organizadores dependem do software para obter preços e pacotes exclusivos.
+
+Usuários confiam nas excursões oferecidas pelo app devido a vantagens concretas.
+
+Fase 2 – Integração com agências de turismo
+
+Objetivo: permitir excursões de média/longa distância e colaboração.
+
+Fluxo:
+
+Agências cadastram viagens de saída da região.
+
+Organizadores locais podem aderir à viagem, formando microgrupos.
+
+Sistema calcula logística, capacidade e reservas compartilhadas.
+
+Usuário visualiza excursão combinada e reserva pelo app.
+
+Barreira de entrada / Monopólio:
+
+Criar uma rede híbrida organizadores-agências difícil de replicar localmente.
+
+Dados de microgrupos e histórico de adesão geram vantagem competitiva.
+
+Organizador local se torna dependente do sistema para acessar viagens maiores.
+
+Fase 3 – Integração TripAdvisor / Avaliações externas
+
+Objetivo: aumentar confiabilidade e atratividade das excursões.
+
+Fluxo:
+
+Organizador seleciona pontos turísticos usando API TripAdvisor ou similar.
+
+Informações e avaliações externas são integradas no app.
+
+Usuário visualiza excursões com dados confiáveis e decide reservar.
+
+Feedback interno do app se integra às avaliações externas, criando ranking interno.
+
+Barreira de entrada / Monopólio:
+
+Sistema torna-se referência local para excursões confiáveis.
+
+Difícil para concorrentes replicarem rede de organizadores + dados + parcerias + avaliações.
+
+Usuário e organizador ficam presos ao ecossistema devido à confiança e dados acumulados.
+
+Resumo “Zero to One”
+
+Zero: bairro sem solução centralizada; excursões dispersas.
+
+One: app domina o micro-nicho:
+
+Organizador depende do sistema para logística e parcerias.
+
+Usuário depende do sistema para descobrir, reservar e avaliar excursões confiáveis.
+
+Parcerias exclusivas e integração de dados criam barreira de entrada sustentável.

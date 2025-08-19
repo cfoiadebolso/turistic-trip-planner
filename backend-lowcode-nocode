@@ -1,0 +1,13 @@
+Fluxo técnico
+
+Frontend (React) chama as APIs do Xano ou Supabase Functions para buscar/registrar viagens, usuários e pagamentos.
+
+Autenticação gerenciada por Supabase Auth ou Clerk, integrada direto no React.
+
+Pagamentos via link/checkout.
+
+Chat e notificações plugados via SDK (Stream/OneSignal).
+
+Painel admin para operadores gerenciarem excursões no Retool/Nocodb.
+
+Deploy: Frontend na Vercel, Backend no supabase, painel admin hospedado próprio da ferramenta.
